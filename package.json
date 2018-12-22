@@ -14,6 +14,8 @@
     "vue-template-compiler": "^2.5.21",
     "cheerio": "^0.22.0",
     "posthtml": "^0.11.3",
-    "jscodeshift": "^v0.6.2"
+    "jscodeshift": "^v0.6.2",
+    "detect-indent": "^5.0.0",
+    "indent-string": "^3.2.0"
   }
 }

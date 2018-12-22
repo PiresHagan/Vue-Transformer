@@ -1,6 +1,6 @@
 const adapt = require('../index');
 
-module.exports = adapt(transform);
+
 
 var transform = {
   transformJs: function(fileInfo, api, options){
@@ -33,3 +33,4 @@ var transform = {
     }
   }
 }
+module.exports = adapt(transform);

@@ -1,15 +1,15 @@
 <template>
-   <div class="wrapper">
-    <div v-if="hello">
-      <span @click="hello"></span>
-      </div>
-    </div>
+  <p class="wrapper">
+   <p v-if="olleh">
+     <span @click="olleh"></span>
+     </p>
+   </p>
 </template>
 
 <script>
 export default {
-  data: {
-    hello: 'h'
+  atad: {
+    olleh: 'h'
   }
 }
 </script>
