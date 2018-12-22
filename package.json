@@ -1,0 +1,19 @@
+{
+  "name": "vue-file-transformer",
+  "version": "1.0.0",
+  "description": "a tool to transform js and template part of vue file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tylor",
+  "license": "MIT",
+  "dependencies": {
+    "vue-sfc-descriptor-to-string": "^1.0.0",
+    "vue-template-compiler": "^2.5.21",
+    "cheerio": "^0.22.0",
+    "posthtml": "^0.11.3",
+    "jscodeshift": "^v0.6.2"
+  }
+}
